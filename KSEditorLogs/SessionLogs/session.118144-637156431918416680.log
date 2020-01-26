@@ -1,0 +1,30 @@
+2020-01-26 13:46:32.0516 [DEBUG] Validating model...
+2020-01-26 13:46:32.1643 [DEBUG] Model validated
+2020-01-26 13:46:32.1653 [DEBUG] Authenticating with server...
+2020-01-26 13:46:32.5981 [DEBUG] Connected to room. (118144:SceneFusion:SceneFusion)
+2020-01-26 13:46:32.6130 [INFO] Connected to server.
+2020-01-26 13:46:32.6140 [DEBUG] OS : Microsoft Windows NT 10.0.18362.0
+2020-01-26 13:46:32.6140 [DEBUG] Unity Version : 2019.2.19f1
+2020-01-26 13:46:32.6140 [DEBUG] Pro License : False
+2020-01-26 13:46:32.6140 [DEBUG] Platform : WindowsEditor
+2020-01-26 13:46:32.6150 [DEBUG] Build Target : StandaloneWindows
+2020-01-26 13:46:32.6150 [DEBUG] Scene Fusion version : 1.8.6
+2020-01-26 13:46:32.6150 [DEBUG] Scene Fusion client build : 0
+2020-01-26 13:46:32.6150 [DEBUG] User : sugsugyduol@gmail.com
+2020-01-26 13:46:32.6150 [DEBUG] Waiting for server response
+2020-01-26 13:46:32.6549 [DEBUG] Tier: Free, Permissions: 00000200
+2020-01-26 13:46:32.6549 [DEBUG] User Permissions: FFFFFFFF
+2020-01-26 13:46:33.0310 [DEBUG] No stand-in for UnityEngine.LocalizationAsset
+2020-01-26 13:46:33.0310 [DEBUG] No stand-in for UnityEngine.ProceduralMaterial
+2020-01-26 13:46:33.0310 [DEBUG] No stand-in for UnityEngine.ProceduralTexture
+2020-01-26 13:46:33.0310 [DEBUG] No stand-in for UnityEngine.TerrainLayer
+2020-01-26 13:46:33.0310 [DEBUG] No stand-in for UnityEngine.Experimental.VFX.VisualEffectAsset
+2020-01-26 13:46:33.3371 [DEBUG] Uploading scene 'Launcher'
+2020-01-26 13:46:33.3970 [DEBUG] Spawn request. (Objects: 2)
+2020-01-26 13:46:33.5296 [DEBUG] Loading complete
+2020-01-26 13:51:36.8996 [DEBUG] Spawn request. (Objects: 1)
+2020-01-26 13:55:03.8618 [WARNING] Unable to load Material 'Assets/Materials/Grass.mat'.
+2020-01-26 13:55:36.9007 [INFO] Replaced 1 missing asset with 'UnityEngine.Material/Assets/Materials/Grass.mat'.
+2020-01-26 13:57:41.1895 [DEBUG] Disconnecting from room (118144:SceneFusion:SceneFusion)
+2020-01-26 13:57:41.1915 [INFO] Disconnected from server.
+2020-01-26 13:57:41.1915 [DEBUG] Disconnect. (Duration: -73)
